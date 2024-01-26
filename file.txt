@@ -1,0 +1,7 @@
+black
+dansoman
+doc
+file.tex
+file.txt
+green
+house
